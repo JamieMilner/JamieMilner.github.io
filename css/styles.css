@@ -38,6 +38,7 @@ header {
 
 header ul {
   list-style-type: none;
+  padding: 0;
 }
 
 img {
@@ -110,7 +111,7 @@ a:hover {
   object-fit: none;
   border: 3px solid #f7fff7;
   box-shadow: 0 0 20px #343434;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 /* Skills Styles
